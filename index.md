@@ -1,5 +1,7 @@
 # TouchBase
 
+This page provides support information for the TouchBase app.
+
 TouchBase is a personal safety and check-in app that helps individuals and families stay connected and share their status.
 
 ## Support
